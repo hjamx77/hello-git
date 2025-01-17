@@ -2753,12 +2753,11 @@
 - jdgarzon3
 - mky-es
 - JuitoMG
-<<<<<<< HEAD
 - manueltux-sudo- KennWudi
-=======
 - manueltux-sudo
 - KennWudi
 - Minato01101
 - hjamx77
 - AndreDev12
 - Fernandokw07
+- osamasgit
