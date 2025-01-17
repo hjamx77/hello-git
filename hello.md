@@ -2759,7 +2759,4 @@
 - Minato01101
 - hjamx77
 - AndreDev12
-- Fernandokw07
-- osamasgit
-- fernandokw07
-- RubiguXIII
+- DaniRojasDev
