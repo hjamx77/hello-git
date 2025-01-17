@@ -2759,7 +2759,4 @@
 - Minato01101
 - hjamx77
 - AndreDev12
-- eliezerabreu
-- Bossito
-
-- DaniRojasDev
+- Antonio Heredia Morante
