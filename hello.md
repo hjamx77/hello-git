@@ -2750,8 +2750,12 @@
 - MrRomero02
 - ricardoH98
 <<<<<<< HEAD
+<<<<<<< HEAD
 - jroquen
 - MartinFalconL
 =======
 - jdgarzon3
 >>>>>>> f89e8b0d (se añade un fichero para que salude la comunidad)
+=======
+- igna-s
+>>>>>>> b250491b (Agrego usuario)
