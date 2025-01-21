@@ -2753,4 +2753,12 @@
 - jdgarzon3
 - mky-es
 - JuitoMG
+<<<<<<< HEAD
 - manueltux-sudo- KennWudi
+=======
+- manueltux-sudo
+- KennWudi
+- Minato01101
+- hjamx77
+- AndreDev12
+>>>>>>> cc17d2a6 (Añadir mi nombre de usuario.)
