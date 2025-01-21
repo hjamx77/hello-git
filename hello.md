@@ -2761,5 +2761,4 @@
 - Minato01101
 - hjamx77
 - AndreDev12
->>>>>>> cc17d2a6 (Añadir mi nombre de usuario.)
-- CovaJpg
+- Fernandokw07
