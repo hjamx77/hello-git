@@ -2753,7 +2753,34 @@
 <<<<<<< HEAD
 - jroquen
 - MartinFalconL
+<<<<<<< HEAD
 =======
 - jdgarzon3
 - mky-es
 - hjamx77
+=======
+- igna-s
+- jdgarzon3
+- mky-es
+- JuitoMG
+- manueltux-sudo
+- KennWudi
+- Minato01101
+- hjamx77
+- CovaJpg
+- AndreDev12
+- osamasgit
+- fernandokw07
+- Heran76
+- eliezerabreu
+- Bossito
+- DaniRojasDev
+- RubiguXIII
+- Betico1239
+- DanPhantom1327
+- Albert23wm
+- diego62-dev
+- Tatiananay
+- GySeR17
+- Kevint071
+>>>>>>> bf6f5a9f76740f0055d917918b428a5f5f6f94f1
