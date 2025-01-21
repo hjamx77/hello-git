@@ -2770,8 +2770,6 @@
 <<<<<<< HEAD
 - AndreDev12
 - Antonio Heredia Morante
-=======
-=======
 - igna-s
 - jdgarzon3
 - mky-es
