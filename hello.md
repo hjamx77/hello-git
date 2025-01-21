@@ -2750,3 +2750,5 @@
 - MrRomero02
 - ricardoH98
 - igna-s
+- jdgarzon3
+- mky-es
